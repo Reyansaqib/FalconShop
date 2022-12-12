@@ -1,0 +1,60 @@
+.background{
+    background-color: rgb(13, 94, 141);
+}
+.active{
+    border-bottom: 3px solid white;
+}
+.textfont{
+    font-family: Bernard MT Condensed;
+}
+.mytoggler{
+    width:30%;
+}
+.mytogglerline{
+   
+    width: 25px;
+    height: 5px;
+    background-color: white;
+    margin-top: 5px;
+    padding: 3px;
+
+
+}
+.mapouter{position:relative;text-align:right;height:500px;width:1300px;}
+.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:1300px;}
+.map{
+    display: grid;
+    width: 100vw;
+    place-items: center;
+}
+.login{
+    min-height:70vh;
+    width: 98vw;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("../assets/images/LOGIN.jpg");
+}
+.loginform{
+    background-color: white;
+    height: 70vh;
+}
+.signup{
+    min-height:110vh;
+    width: 98vw;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("../assets/images/LOGIN.jpg");
+}
+.signupform{
+    background-color: white;
+    height: 110vh;
+}
+.contact{
+    width: 100%;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid wheat;
+    background-color: grey;
+    border-radius: 10px;
+    color: white;
+    
+}
+.contact:hover{
+    box-shadow: 5px 5px 5px grey;
+}
