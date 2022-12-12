@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/FalconShop/static/css/main.5d37caab.css",
-    "main.js": "/FalconShop/static/js/main.4b613135.js",
+    "main.css": "/FalconShop/static/css/main.4e4b5b93.css",
+    "main.js": "/FalconShop/static/js/main.77ab34ab.js",
     "static/media/p101.jpg": "/FalconShop/static/media/p101.af13e0314e8b79bc11b3.jpg",
     "static/media/p98.jpg": "/FalconShop/static/media/p98.637f21ac3137b3068839.jpg",
     "static/media/p86.jpg": "/FalconShop/static/media/p86.96a09f0ce62f174a4e66.jpg",
@@ -116,11 +116,11 @@
     "static/media/p93.jpg": "/FalconShop/static/media/p93.f1f5113079d7b9ed6166.jpg",
     "static/media/p91.jpg": "/FalconShop/static/media/p91.d5ed3b1a128d09be2edd.jpg",
     "index.html": "/FalconShop/index.html",
-    "main.5d37caab.css.map": "/FalconShop/static/css/main.5d37caab.css.map",
-    "main.4b613135.js.map": "/FalconShop/static/js/main.4b613135.js.map"
+    "main.4e4b5b93.css.map": "/FalconShop/static/css/main.4e4b5b93.css.map",
+    "main.77ab34ab.js.map": "/FalconShop/static/js/main.77ab34ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d37caab.css",
-    "static/js/main.4b613135.js"
+    "static/css/main.4e4b5b93.css",
+    "static/js/main.77ab34ab.js"
   ]
 }
